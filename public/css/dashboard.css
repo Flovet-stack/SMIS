@@ -1,0 +1,16 @@
+.d-menu {
+    display: flex;
+}
+
+.d-menu .m-item {
+    margin: 0.5rem;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.d-menu .m-item i {
+    width: 100px;
+    font-size: 90px;
+    display: block;
+}
